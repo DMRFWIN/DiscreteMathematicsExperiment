@@ -1,0 +1,3 @@
+/home/dmrf/文档/离散数学/DiscreteMathematicsExperiment_TSP-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/dmrf/文档/离散数学/DiscreteMathematicsExperiment_TSP-master/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dmrf/文档/离散数学/DiscreteMathematicsExperiment_TSP-master/cmake-build-debug/CMakeFiles/TSP.dir
